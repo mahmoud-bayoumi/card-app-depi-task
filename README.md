@@ -1,6 +1,3 @@
-Here is the **final README.md** file you can directly use for your GitHub repo:
-
----
 
 # Depi First App
 
