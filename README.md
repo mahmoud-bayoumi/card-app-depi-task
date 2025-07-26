@@ -1,4 +1,4 @@
-# Depi First App
+# Depi First App ( Self Card App Task )
 
 This is a simple Flutter application called **Self Card App**, designed to display a personal profile screen with an avatar image and customized text containers. The app showcases Flutter layout techniques, reusable widgets, and responsive UI design.
 
