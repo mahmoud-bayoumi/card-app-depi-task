@@ -89,7 +89,7 @@ assets/
 
 | App UI                           |
 | ------------------------------------------- |
-| <img width="700" height="700" alt="Screenshot_1753555664" src="https://github.com/user-attachments/assets/a0945bfe-e95e-49ac-864d-1097e247ae28" /> |
+| <img width="800"  alt="Screenshot_1753555664" src="https://github.com/user-attachments/assets/a0945bfe-e95e-49ac-864d-1097e247ae28" /> |
 
 ---
 
